@@ -3,7 +3,7 @@
 
 # Command to run code :
 
-./vendor/bin/phpunit --bootstrap vendor/autoload.php /var/www/php/SampleProject/UnitTestFiles/Test/MultiplesGeneratorTest
+./vendor/bin/phpunit --bootstrap vendor/autoload.php /file Path/MultiplesGeneratorTest
 
 # Expected output :
 
